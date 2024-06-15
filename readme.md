@@ -13,7 +13,7 @@ Nesse projeto desenvolvi um e-book utilizando IA para gerar os conteúdos. O tem
 
 📕 [Mestres do
 Código:
-Conquistando o Mundo com Magia Python​]()
+Conquistando o Mundo com Magia Python​](https://github.com/gabistorres85/e-books/blob/master/ebook_mestres_do_codigov3.pdf)
 
 
 ## :desktop_computer:	Tecnologias utilizadas
